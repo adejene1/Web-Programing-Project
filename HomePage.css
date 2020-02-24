@@ -1,0 +1,39 @@
+html,body{
+    background-image: url(71dW17lsr9L._AC_SX425_.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    
+    
+}
+
+.Title{
+   
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    font-size: 80px;
+    font-weight: bolder;
+    color: red;
+    font-family: Impact, Charcole,sans-serif;
+    
+}
+
+h1{
+    font-size: 50px;
+    color: black;
+    
+}
+
+h2{
+    font-size: 40px;
+    color: black;
+}
+
